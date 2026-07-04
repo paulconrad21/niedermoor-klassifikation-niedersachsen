@@ -59,8 +59,6 @@ Im Projekt wurden daraus polygonweise mittlere pH-Werte für zwei Tiefenbereiche
 - `Soil_pH_0_30cm`
 - `Soil_pH_30_100cm`
 
-Hinweis: Die genauen Nutzungs- und Zitierbedingungen der externen Datenquellen sollten vor Veröffentlichung geprüft und im Poster korrekt angegeben werden.
-
 ## Projektstruktur
 
 ```text
