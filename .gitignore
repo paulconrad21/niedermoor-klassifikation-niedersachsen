@@ -1,0 +1,18 @@
+# R / RStudio local session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Large external raw datasets
+# These datasets should be downloaded from the original providers.
+data/raw/external/
