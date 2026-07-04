@@ -209,7 +209,3 @@ Das GEE-Skript `02_export_training_features_gee.js` wird separat im Google Earth
 Die bisherige Modellierung zeigt, dass vor allem Sentinel-2-basierte spektrale und saisonale Variablen für die Niedermoor-Erkennung relevant sind. Besonders häufig bzw. wichtig waren Variablen aus den Bereichen NBR/NBR2, Red-Edge, NIR/SWIR und Feuchteindizes. Sentinel-1-Features lieferten ergänzende Informationen. Externe Standortdaten wie Boden-pH oder Temperatur traten vereinzelt auf, waren aber weniger stabil.
 
 Die räumliche Übertragbarkeit ist foldabhängig und damit ein wichtiger Bestandteil der Ergebnisinterpretation.
-
-## Lizenz und Quellen
-
-Vor einer Veröffentlichung sollten die jeweiligen Nutzungsbedingungen der verwendeten Datenquellen geprüft und im Poster bzw. Repository korrekt zitiert werden. Dies betrifft insbesondere die externen Rasterdaten und die über Google Earth Engine genutzten Datensätze.
